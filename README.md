@@ -1,5 +1,7 @@
 # Naming conventions
 
+god damnit github, i hate copilot
+
 Opinionated btw
 It's annoying to read code that looks straight out of a garbage can
 So I made this or whatever
