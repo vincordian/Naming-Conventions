@@ -1,5 +1,6 @@
 # Naming conventions
 
+Opinionated btw
 It's annoying to read code that looks straight out of a garbage can
 So I made this or whatever
 
